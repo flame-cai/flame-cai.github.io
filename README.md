@@ -1,1 +1,2 @@
-# flame-cai.github.io
+# FLAME University
+## Center for interdisciplinary Artificial Intelligence ( CAI )
